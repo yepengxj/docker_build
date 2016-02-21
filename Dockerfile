@@ -1,2 +1,2 @@
 # docker_build
-FROM progrium/consul
+FROM alpine:latest
